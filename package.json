@@ -21,7 +21,7 @@
     "husky": "^9.0.0",
     "jest": "^26.0.1",
     "nock": "^12.0.3",
-    "prettier": "^2.0.5",
+    "prettier": "^3.0.0",
     "pretty-quick": "^4.0.0"
   },
   "husky": {
