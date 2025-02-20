@@ -5,8 +5,8 @@
   ],
   "packageRules": [
     {
-      automerge: true,
-      matchUpdateTypes: ["minor"]
+      "automerge": true,
+      "matchUpdateTypes": ["minor"]
     }
   ]
 }
