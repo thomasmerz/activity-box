@@ -3,7 +3,6 @@ name: Activity Box
 on:
   schedule:
     - cron: '30 * * * *'
-  workflow_dispatch:
 
 jobs:
   build:
