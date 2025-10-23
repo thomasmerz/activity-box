@@ -13,7 +13,7 @@
     "url": "https://github.com/JasonEtco/activity-box.git"
   },
   "dependencies": {
-    "actions-toolkit": "^4.0.0",
+    "actions-toolkit": "^6.0.0",
     "dotenv": "^17.0.0",
     "gist-box": "^0.3.1"
   },
